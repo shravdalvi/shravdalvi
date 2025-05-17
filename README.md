@@ -13,7 +13,7 @@ interests = [
     "Development 🔧",
     "DSA 🖥️",
     "Reading novels🔖",
-    "Wattpad author✒️",
+    "Wattpad author✒️"
 ]
 
 ```
