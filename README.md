@@ -12,6 +12,8 @@ languages = ["C/C++", "Java", "Python", "HTML/CSS"]
 interests = [
     "Development 🔧",
     "DSA 🖥️",
+    "Reading novels🔖",
+    "Wattpad author✒️",
 ]
 
 ```
