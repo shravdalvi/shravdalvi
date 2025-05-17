@@ -1,16 +1,17 @@
-## Hi there 👋
+<div style="width: 100%; display: block;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF66CC&center=false&vCenter=true&width=1000&lines=Hello+There!+I'm+Shravani." 
+       alt="Hello There" width="100%"/>
+</div>
 
-<!--
-**shravdalvi/shravdalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
 
-Here are some ideas to get you started:
+# skills.py
+languages = ["C/C++", "Java", "Python", "HTML/CSS"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# interests.py
+interests = [
+    "Development 🔧",
+    "DSA 🖥️",
+]
+
+```
