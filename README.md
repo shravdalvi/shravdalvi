@@ -12,10 +12,11 @@ languages = ["C/C++", "Python", "HTML/CSS"]
 interests = [
     "GPUs & chips",
     "Cloud Computing",
-    "Servers",
-    "DSA 🖥️",
-    "Reading novels🔖",
-    "Wattpad author👩🏻‍💻"
+    "Servers & Switches",
+    "CUDA",
+    "DSA",
+    "Reading novels",
+    "Wattpad author"
 ]
 
 ```
