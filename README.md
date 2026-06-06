@@ -6,11 +6,13 @@
 ```python
 
 # skills.py
-languages = ["C/C++", "Java", "Python", "HTML/CSS"]
+languages = ["C/C++", "Python", "HTML/CSS"]
 
 # interests.py
 interests = [
-    "Development 🔧",
+    "GPUs & chips",
+    "Cloud Computing"
+    "Servers"
     "DSA 🖥️",
     "Reading novels🔖",
     "Wattpad author👩🏻‍💻"
