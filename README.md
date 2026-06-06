@@ -11,8 +11,8 @@ languages = ["C/C++", "Python", "HTML/CSS"]
 # interests.py
 interests = [
     "GPUs & chips",
-    "Cloud Computing"
-    "Servers"
+    "Cloud Computing",
+    "Servers",
     "DSA 🖥️",
     "Reading novels🔖",
     "Wattpad author👩🏻‍💻"
