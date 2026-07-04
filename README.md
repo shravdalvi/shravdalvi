@@ -20,3 +20,13 @@ interests = [
 ]
 
 ```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
